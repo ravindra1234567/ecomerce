@@ -1,0 +1,13 @@
+*{
+
+}
+.carousel-item{
+	height:90vh;
+	width: 100%;
+}
+.contact{
+	text-decoration: underline;
+}
+#refreshment{
+     border-color: red;
+}
